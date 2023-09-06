@@ -4,7 +4,10 @@ This repository contains the code for building a Netflix-inspired home page usin
 
 ## Preview
 
-![image]('https://github.com/MohdHassanAnsari/Netflix-Clone/blob/main/README-imgs/Screenshot%202023-09-06%20163154.png')
+![image](https://github.com/MohdHassanAnsari/Netflix-Clone/assets/137515190/c9982275-7eaf-4f2f-803d-906c3739b5b6)
+![image](https://github.com/MohdHassanAnsari/Netflix-Clone/assets/137515190/f0ffa29b-e065-4185-9cea-4a94eed42e80)
+![image](https://github.com/MohdHassanAnsari/Netflix-Clone/assets/137515190/e26e5647-e7b4-4c79-a48d-bf3df18ab266)
+
 
 ## Features
 
